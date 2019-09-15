@@ -1337,7 +1337,7 @@ section.lazy-placeholder:after {
   stroke: rgba(206, 206, 206, 0.4);
 }
 .cid-rC5KBKk5Da path {
-  stroke: #149dcc;
+  stroke: #0f7699;
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-rC5KBKk5Da .card {
@@ -1357,7 +1357,7 @@ section.lazy-placeholder:after {
 }
 .cid-rC5KWqWbH9 .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #efefef;
+  background: #55b4d4;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -1394,7 +1394,7 @@ section.lazy-placeholder:after {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #efefef;
+  background-color: #55b4d4;
   top: 20px;
   margin-left: -30px;
 }
@@ -1413,7 +1413,7 @@ section.lazy-placeholder:after {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #efefef;
+  background-color: #55b4d4;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -1522,7 +1522,7 @@ section.lazy-placeholder:after {
 .cid-rC6MQIymzM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-color: #073b4c;
 }
 .cid-rC6MQIymzM .google-map {
   height: 25rem;
@@ -1560,10 +1560,10 @@ section.lazy-placeholder:after {
   line-height: 44px;
 }
 .cid-rC5LB3INeR .btn-social {
-  border-color: #149dcc;
+  border-color: #0f7699;
 }
 .cid-rC5LB3INeR .btn-social:hover {
-  background: #149dcc;
+  background: #0f7699;
 }
 .cid-rC5LB3INeR .btn-social:hover i.socicon {
   color: #ffffff !important;
@@ -1576,5 +1576,5 @@ section.lazy-placeholder:after {
 .cid-rC5LJB77i9 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
